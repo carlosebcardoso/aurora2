@@ -1,2 +1,6 @@
 jupyterlab==4.6.6
+matplotlib>=3.8,<4.0
+numpy>=2.0,<3.0
 pandas==3.1.1
+scikit-learn>=1.4,<2.0
+tabulate>=0.9,<1.0

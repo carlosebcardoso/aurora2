@@ -13,3 +13,5 @@ __pycache__/
 Thumbs.db
 
 data/*.csv
+resultados/*.csv
+resultados/*/*.csv
